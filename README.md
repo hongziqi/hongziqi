@@ -1,6 +1,11 @@
 ## Hey 👋, This is hongziqi
 
-<table>
+
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=2000&color=C2FFC7&center=true&vCenter=true&random=false&width=800&lines=I+am+a+slow+walker;but+I+never+walk+backward.++-+Abraham+Lincoln" alt="Developer Quote"/>
+</p>
+
+<table align="center">
   <tr>
     <td>
     <p>Contact: 1102229410@qq.com </p>
